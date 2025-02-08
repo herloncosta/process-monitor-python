@@ -2,6 +2,8 @@
 
 Este é um projeto simples de monitoramento de processos em tempo real que utiliza a biblioteca `psutil` para coletar dados de uso de CPU e memória, e `matplotlib` para plotar gráficos dinâmicos.
 
+<img src="./image.png" />
+
 ## Requisitos
 
 Para executar este projeto, você precisará das seguintes bibliotecas Python:
