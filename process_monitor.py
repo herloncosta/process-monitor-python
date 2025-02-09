@@ -13,7 +13,7 @@ def process_monitor(interval=2, max_points=30):
 
     plt.ion()
     fig, [ax1, ax2] = plt.subplots(2, 1, figsize=(10, 8))
-    fig.suptitle('Process Monitor')
+    # fig.suptitle('Process Monitor')
     fig.canvas.manager.set_window_title('Process Monitor')
     fig.canvas.toolbar.pack_forget()
     fig.canvas.toolbar = None
